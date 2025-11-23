@@ -1,0 +1,7 @@
+order_id,order_date,customer_name,order_status,order_total
+1,01-11-2025,Ravi Kumar,PAID,3098
+2,05-11-2025,Ravi Kumar,PENDING,1499
+3,02-11-2025,Priya Sharma,PAID,3499
+4,03-11-2025,Arjun Reddy,CANCELLED,598
+5,04-11-2025,Meera Nair,PAID,3396
+6,06-11-2025,Vikram Singh,PAID,2697
